@@ -1,0 +1,82 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+body{
+	background-color: #4CAF50;
+}
+
+
+
+.container{
+	width:auto;
+	margin:0 auto;
+	background-color:#fff;
+	height: 630px;
+	margin: 10px;
+
+}
+
+.wrapper{
+	margin-bottom: 20px;
+}
+
+h1{
+	padding: 10px;
+	font-family: calibri body;
+	color: rgb(84,84,172);
+	text-align: center;
+}
+
+.data{
+	width:800px;
+	padding: 10px;
+	margin-top: 20px;
+}
+
+.data select {
+	width: 200px;
+	padding: 3px;
+	margin: 20px 0px;
+	float: left;
+	position: relative;
+	margin-right: 20px;
+
+}
+
+.submit{
+	margin-top: 18px;
+	width: auto;
+	padding: 6px;
+	border: 0px auto;
+	font-weight: bold;
+	outline: none;
+	background: #4CAF50;
+	color: white;
+	cursor: pointer;
+}
+
+.table{
+	margin-top: 20px;
+	border: 1px solid #ccc;
+	clear: both;
+}
+
+.table th{
+	width: 200px;
+	font-family: verdana;
+	font-size: 13px;
+	color: rgb(84 , 84 , 172);
+	padding: 3px 20px 3px 20px;
+
+}
+
+.table td{
+	text-align: left;
+	width: 300px;
+	font-family: verdana;
+	font-size: 13px;
+	padding: 3px 68px 3px 68px;
+
+}
